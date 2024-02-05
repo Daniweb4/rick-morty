@@ -50,7 +50,13 @@ h1{
   background-color: #71A821;
   color: white;
   border-radius: 0 5px 0 5px;
-}.app_form{
+  transition: .5s;
+}.btn:hover{
+  transform: scale(1.1);
+  box-shadow: #05292e;
+
+}
+.app_form{
   margin-top: 35px;
 }.app_container{
   display: flex;
