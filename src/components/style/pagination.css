@@ -8,6 +8,8 @@
     padding: 10px ;
     width: 15vh;
     color: white;
+    transition: ease-out 0.3s;  
 }button:hover{
-    color:#c59a9a
+    color:hsl(0, 27%, 69%);
+    transform:scale(1.1);
 }
