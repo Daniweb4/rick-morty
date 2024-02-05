@@ -1,0 +1,13 @@
+.btn_pagination{
+    display: flex;
+    gap: 25px;
+    margin: 25px 0;
+}button{
+    background-color:  #576b6f;
+    border-radius: 6px;
+    padding: 10px ;
+    width: 15vh;
+    color: white;
+}button:hover{
+    color:#c59a9a
+}
